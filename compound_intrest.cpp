@@ -1,3 +1,6 @@
+//Here we are just calculating the compound intrest but here we actually using the cmath pow()  function
+
+
 #include <iostream>
 #include <cmath>
 using namespace std;
